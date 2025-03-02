@@ -29,10 +29,11 @@ Além disso, foi desenvolvida uma API em Java com Spring Boot para manipulação
 
 ## Requisitos
 
-- **Node.js**: Certifique-se de ter o Node.js instalado em sua máquina. Caso não tenha, procure um tutorial ou vídeo explicativo para instalação.
+- **Node.js**: Certifique-se de ter o Node.js instalado em sua máquina. Caso não tenha, procure um tutorial ou vídeo explicativo para instalação. [https://www.youtube.com/watch?v=-jft_9PlffQ]
 - **npm**: Vem junto com o Node.js.
 - **Java**: Necessário para rodar a API backend.
 - **Eclipse**: Para trabalhar com o projeto Java. Recomenda-se baixar essa versão, é a primeira desse link [https://www.eclipse.org/downloads/packages/].
+- **JDK**: Se não tiver o JAVA/JDK instalado baixe esse aqui Java SE Development Kit 17.0.12 [https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html]
 - **PostgreSQL**: O banco de dados já está configurado no Neon. Está na minha conta então por favor não abusem, quando estiver livre colocamos numa conta própria de vocês.
 
 ---
